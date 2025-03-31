@@ -86,7 +86,7 @@ please send a kind reminder to the security team about a lack of response.
 You will also be credited as a reportor for the advisory and have to accept the same.
 
 You can also optionally, start a temporary private fork if you want to start to fix the issue.
-See the [GitHub docs]https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability on how to do this
+See the [GitHub docs](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) on how to do this
 from the same draft advisory report context so that the maintainers can also have access.
 Note that only the repository maintainer can merge changes from that private fork into the parent repository.
 Alternatively, the maintainers will work on the fix and keep you updated once it lands on the default branch.
