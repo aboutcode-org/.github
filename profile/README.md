@@ -1,5 +1,8 @@
 ## Welcome to AboutCode! 👋
 
+To get started, visit https://aboutcode.readthedocs.io/
+
+
 Check out our contributing pages:
 
 * [Contribute Code](https://aboutcode.readthedocs.io/en/latest/contributing.html)
